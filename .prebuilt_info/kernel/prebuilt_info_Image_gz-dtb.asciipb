@@ -1,11 +1,11 @@
 drops {
   android_build_drop {
-    build_id: "4996431"
+    build_id: "5063021"
     target: "kernel"
     source_file: "Image.gz-dtb"
   }
   dest_file: "Image.gz-dtb"
-  version: "Linux version 3.10.73-g0a05126d69c9 (android-build@xpce12.ams.corp.google.com) (gcc version 4.9.x-google 20140827 (prerelease) (GCC) ) #1 SMP PREEMPT Thu Sep 6 19:43:56 UTC 2018"
+  version: "Linux version 3.10.73-g89fd15db99aa (android-build@wprn6.hot.corp.google.com) (gcc version 4.9.x-google 20140827 (prerelease) (GCC) ) #1 SMP PREEMPT Thu Oct 11 19:31:31 UTC 2018"
   version_group: "kernel"
   git_project: "device/lge/bullhead-kernel"
 }
